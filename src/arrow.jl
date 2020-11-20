@@ -1,6 +1,6 @@
 ## Apache Arrow
 
-@info "Arrow.jl is available - including functionality to read / write JDF files"
+@info "Arrow.jl is available - including functionality to read / write Arrow files"
 
 using .Arrow
 
